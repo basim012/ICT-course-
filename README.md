@@ -1,3 +1,5 @@
+Name: Basam Saeed  Reg no: BBT221060
+
 no.1 to find even or odd number
 
 no.2 to find factorial of a number
